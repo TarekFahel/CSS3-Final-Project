@@ -14,7 +14,7 @@ h2 {
     position: fixed;
     top: 10px;
     left: 10px;
-    background: #000;
+    background: #293340;
     color: #fff;
     padding: 10px 15px;
     border-radius: 8px;
@@ -111,5 +111,6 @@ footer {
     color: #fff;
     margin-top: 2rem;
 }
+
 
 
